@@ -1,6 +1,6 @@
 .odd-number {
     background-color: #ffb6c1;
-    font-family: Verdana, sans-serif; /* Don't have the DejaVu Sans font */
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #second-div {
