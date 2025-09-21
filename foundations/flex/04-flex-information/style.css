@@ -5,11 +5,32 @@ body {
 img {
   width: 100px;
   height: 100px;
+  display: flex;
+  align-items: center;
+}
+
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  margin-top: 16px;
+}
+
+.containerChild {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-basis: 200px;
+  text-align: center;
 }
 
 .title {
   font-size: 36px;
   font-weight: 900;
+  display: flex;
+  justify-content: center;
 }
 
 /* do not edit this footer */
