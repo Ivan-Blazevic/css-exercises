@@ -21,7 +21,6 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
-  flex-wrap: wrap;
   flex-basis: 200px;
   text-align: center;
 }
